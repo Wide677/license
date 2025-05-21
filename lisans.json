@@ -1,20 +1,9 @@
 [
-   {
-      "anticheat":{
-        "45.141.150.142": "Mental Deathmatch",
-        "11": "1s",
-        "11": "1s",
-        "11": "1s",
-        "11": "1s",
-        "11": "1s",
-        "11": "1s", 
-        "11": "1s",
-      },
-      "pizza_delivery":{
-         "11": "1s"
-      },
-      "ooc_shop":{
-         "11": "1s",
-      }
-   }
+  {
+    "anticheat": {
+      "45.141.150.142": "Lena Deathplay"
+    },
+    "pizza_delivery": {},
+    "ooc_shop": {}
+  }
 ]
